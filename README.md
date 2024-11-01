@@ -1,9 +1,16 @@
 ## Hi there 👋
 
 <!--
-**Amphicheiras/Amphicheiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+For a C++ dev shouwcase have a look at:
+  JUCE projects:
+    - 3D Spatial Audio using HRTFs
+    - Oscilloscope
+    - Wavetable Synthesizer
+    - Bandpass Filter
+  ESP32 projects:
+    - Compact MIDI Controller
+    - Prototype MIDI Controller
+    - TESTS?
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
