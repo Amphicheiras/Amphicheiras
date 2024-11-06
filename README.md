@@ -8,4 +8,6 @@ Below you may find my work on:
 
 📚 University Projects
 
-My complete portfolio is available here: https://Amphicheiras.github.io
+My complete portfolio is available here:
+
+https://Amphicheiras.github.io
