@@ -2,7 +2,7 @@
 
 Below you may find my work on:
 
-🎶 JUCE Plugins
+🎶 JUCE Audio Plugins
 
 🔭 ESP32 Wireless MIDI Controllers
 
