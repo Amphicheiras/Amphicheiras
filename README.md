@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Below you may find my work on:
+Below, you can find my work on:
 
-🎶 JUCE Audio Plugins
+- 🎶 JUCE Audio Plugins
 
-🔭 ESP32 Wireless MIDI Controllers
+- 🔭 ESP32 Wireless MIDI Controllers
 
-📚 University Projects
+- 📚 University Projects
 
-My complete portfolio is available here:
+Feel free to explore my complete bio and portfolio here:
 
 https://amphicheiras.github.io
