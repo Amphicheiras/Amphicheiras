@@ -10,4 +10,4 @@ Below, you can find my work on:
 
 Feel free to explore my complete bio and portfolio here:
 
-https://amphicheiras.github.io
+- https://amphicheiras.github.io
