@@ -5,7 +5,7 @@ Below, you can find my work on:
 - 🎶 JUCE Audio Plugins
 
 - 🔭 ESP32 Wireless MIDI Controllers
-  - _Note:_ The ESP32 projects are in private repositories for patent-related reasons. Please feel free to contact me directly if you’d like a personal access token for viewing.
+  - _Note:_ The ESP32 projects are currently being prepared for commercial release and are hosted in private repositories. Please feel free to contact me directly if you would like a personal access token for viewing.
 
 - 📚 University Projects
 
